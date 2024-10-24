@@ -20,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Prac 4 - Step 1
 ![Screenshot text_widget](images/text_widget.png)
+
+## Prac 4 - Step 2
+![Screenshot image_widget](images/image_widget.png)
