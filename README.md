@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Prac 3 - Step 12
 ![Screenshot hello_world](images/01.png)
+
+## Prac 4 - Step 1
+![Screenshot text_widget](images/text_widget.png)
