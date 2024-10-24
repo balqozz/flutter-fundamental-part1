@@ -23,3 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Prac 4 - Step 2
 ![Screenshot image_widget](images/image_widget.png)
+
+## JS 5
+![Screenshot practicum5](images/JS5.png)
